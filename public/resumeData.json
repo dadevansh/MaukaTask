@@ -1,0 +1,97 @@
+{
+  "main": {
+    "name":"Jane Doe",
+    "image":"profilepic.jpg",
+    "logo": "logo.png",
+    "bio":"",
+    "phone": "",
+    "address":{
+      "street":"",
+      "city":"",
+      "state":"",
+      "zip": ""
+    },
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com//",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"https://twitter.com/",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/",
+        "className":"fa fa-instagram"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"blog one post",
+        "category":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, seddo eiusmod.",
+        "image":"01.jpg",
+        "link":"youtube.com"
+      },
+      {
+        "title":"blog one post",
+        "category":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, seddo eiusmod.",
+        "image":"02.jpg",
+        "link":"youtube.com"
+      },
+      {
+        "title":"blog one post",
+        "category":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, seddo eiusmod.",
+        "image":"03.jpg",
+        "link":"youtube.com"
+      }
+    ]
+  },
+  "nature":{
+    "projects":[
+      {
+        "title": "Organic Food",
+        "image": "organic-food-publix-computer-icons-organic.jpg"
+      },
+      {
+        "title": "Organic Food",
+        "image": "organic-food-publix-computer-icons-organic.jpg"
+      },
+      {
+        "title": "Organic Foooood",
+        "image": "organic-food-publix-computer-icons-organic.jpg"
+      },{
+        "title": "Organic Food",
+        "image": "organic-food-publix-computer-icons-organic.jpg"
+      }
+    ]
+  },
+  "presented":{
+    "projects":[
+      {
+        "title": "title",
+        "image": "16941300.jpg"
+      },
+      {
+        "title": "title",
+        "image": "16941300.jpg"
+      },
+      {
+        "title": "title",
+        "image": "16941300.jpg"
+      },{
+        "title": "title",
+        "image": "16941300.jpg"
+      }
+    ]
+  }
+}
